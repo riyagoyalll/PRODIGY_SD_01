@@ -26,3 +26,19 @@ The goal was to create a user-friendly interface that:
 ### Steps:
 ```bash
 python temperature_converter.py
+
+---
+
+## 📸 Screenshots
+
+### 1️⃣ Code Interface
+This shows the main Python script (temperature_converter.py) opened in VS Code.
+![Code Screenshot](S1.png)
+
+### 2️⃣ User Input + Output Example
+Here, the user inputs a temperature and gets the converted result.
+![Input & Output Screenshot](S2.png)
+
+### 3️⃣ Error Handling
+Demonstrates the program handling invalid input (like alphabets) with an error message.
+![Error Handling Screenshot](S3.png)
