@@ -24,10 +24,9 @@ The goal was to create a user-friendly interface that:
 - Python 3 installed
 
 ### Steps:
-```bash
+bash
 python temperature_converter.py
 
----
 
 ## 📸 Screenshots
 
